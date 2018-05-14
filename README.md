@@ -18,7 +18,12 @@ There will be three PHPfile in the githiub
 * [index.php](https://github.com/Syedaraza786/Graph-based-search-engine-/blob/master/index.php)
 * [Search_case.php](https://github.com/Syedaraza786/Graph-based-search-engine-/blob/master/search_case.php)
 
-For more option, see [programming API](http://codemirror.net/doc/manual.html) of CodeMirror, and Hack [Markdown Edit](http://github.com/georgeosddev/markdown-edit)
+After downloading the PHP files, run them in any platform which can hold php.<br>
+So you can see the code of how system is running.
+### Step 3
+After running XAMP, go to the web browser and press the link or type it manualy, which ever makes it easier for you.
+[Webpage](http://localhost/case/)
+[Database](http://localhost/phpmyadmin/)
 
 ### Converter
 To Convert markdown to html, Markdown-Edit Use [Github's API](http://developer.github.com/v3/markdown/#render-a-markdown-document-in-raw-mode) as default.<br>
