@@ -13,7 +13,7 @@ After the download is finished, copy the files from github and paste in the htdo
 ### Step 2
 There will be three file in the githiub
 * 
-* [github-flavored-markdown](http://github.github.com/github-flavored-markdown/)
+* [Config.php](https://github.com/Syedaraza786/Graph-based-search-engine-/blob/master/config.php)
 * Config.php
 * index.php
 * Search_case.php
