@@ -1,5 +1,24 @@
 # Graph-based-search-engine-
 
-Download XAMP from https://www.apachefriends.org/download_success.html.
-After the dowload is completed run the XAMP.
-Activate the local host and server.
+## Quick Start
+
+Try on [Demo](http://georgeosddev.github.com/markdown-edit) page.<br>
+Or Install on your local PC. Check [Guide](#on-your-local-pc) to how to install.
+
+## Feature
+### Editor
+Part of Editor is depend on [CodeMirror](http://codemirror.net/).It enabeles
+
+* Display **line number**.
+* **Match Brackets** in the document.
+* Visible `Tab` key
+* **Highlight syntax** of markdown.
+* **Drag and Drop** file read.
+
+For more option, see [programming API](http://codemirror.net/doc/manual.html) of CodeMirror, and Hack [Markdown Edit](http://github.com/georgeosddev/markdown-edit)
+
+### Converter
+To Convert markdown to html, Markdown-Edit Use [Github's API](http://developer.github.com/v3/markdown/#render-a-markdown-document-in-raw-mode) as default.<br>
+For more infomation, See official Guide
+* [GitHub API v3](http://developer.github.com/v3/markdown/)
+* [github-flavored-markdown](http://github.github.com/github-flavored-markdown/)
