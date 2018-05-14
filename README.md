@@ -2,8 +2,9 @@
 
 ## Quick Start
 
-Try on [Demo](http://georgeosddev.github.com/markdown-edit) page.<br>
-Or Install on your local PC. Check [Guide](#on-your-local-pc) to how to install.
+Try downloading [XAMP](https://www.apachefriends.org/download_success.html) page.<br>
+Or Install on your local PC. Check  [Guide](http://www.tutorialspoint.com/articles/run-a-php-program-in-xampp-server) page.<br> to how to install.
+
 
 ## Feature
 ### Editor
