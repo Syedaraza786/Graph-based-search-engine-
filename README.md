@@ -12,9 +12,11 @@ After the download is finished, copy the files from github and paste in the htdo
 
 ### Step 2
 There will be three file in the githiub
-*Config.php
-*index.php
-*Search_case.php
+* 
+* [github-flavored-markdown](http://github.github.com/github-flavored-markdown/)
+* Config.php
+* index.php
+* Search_case.php
 
 For more option, see [programming API](http://codemirror.net/doc/manual.html) of CodeMirror, and Hack [Markdown Edit](http://github.com/georgeosddev/markdown-edit)
 
