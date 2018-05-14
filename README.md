@@ -6,15 +6,15 @@ Try downloading [XAMP](https://www.apachefriends.org/download_success.html) page
 Or Install on your local PC. Check  [Guide](http://www.tutorialspoint.com/articles/run-a-php-program-in-xampp-server) page.<br> to how to install.
 
 
-## Feature
-### Editor
-Part of Editor is depend on [CodeMirror](http://codemirror.net/).It enabeles
+## Steps to run the program 
+### Step 1
+After the download is finished, copy the files from github and paste in the htdoc file in XAMP folder.
 
-* Display **line number**.
-* **Match Brackets** in the document.
-* Visible `Tab` key
-* **Highlight syntax** of markdown.
-* **Drag and Drop** file read.
+### Step 2
+There will be three file in the githiub
+*Config.php
+*index.php
+*Search_case.php
 
 For more option, see [programming API](http://codemirror.net/doc/manual.html) of CodeMirror, and Hack [Markdown Edit](http://github.com/georgeosddev/markdown-edit)
 
