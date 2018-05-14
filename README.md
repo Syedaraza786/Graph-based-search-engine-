@@ -11,12 +11,12 @@ Or Install on your local PC. Check  [Guide](http://www.tutorialspoint.com/articl
 After the download is finished, copy the files from github and paste in the htdoc file in XAMP folder.
 
 ### Step 2
-There will be three file in the githiub
-* 
+There will be three PHPfile in the githiub
+
 * [Config.php](https://github.com/Syedaraza786/Graph-based-search-engine-/blob/master/config.php)
-* Config.php
-* index.php
-* Search_case.php
+
+* [index.php](https://github.com/Syedaraza786/Graph-based-search-engine-/blob/master/index.php)
+* [Search_case.php](https://github.com/Syedaraza786/Graph-based-search-engine-/blob/master/search_case.php)
 
 For more option, see [programming API](http://codemirror.net/doc/manual.html) of CodeMirror, and Hack [Markdown Edit](http://github.com/georgeosddev/markdown-edit)
 
