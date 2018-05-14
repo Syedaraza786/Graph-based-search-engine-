@@ -25,8 +25,12 @@ After running XAMP, go to the web browser and press the link or type it manualy,
 * [Webpage](http://localhost/case/)
 * [Database](http://localhost/phpmyadmin/)
 
-### Converter
-To Convert markdown to html, Markdown-Edit Use [Github's API](http://developer.github.com/v3/markdown/#render-a-markdown-document-in-raw-mode) as default.<br>
-For more infomation, See official Guide
-* [GitHub API v3](http://developer.github.com/v3/markdown/)
-* [github-flavored-markdown](http://github.github.com/github-flavored-markdown/)
+### Step 4
+After its running you will be able to see the program running in your webbrowser<br>
+You will be able to see the whole form with the pages attached to it.
+<br>
+<br>
+##References & tools
+[XAMP](https://www.apachefriends.org/download_success.html)
+[Guide](http://www.tutorialspoint.com/articles/run-a-php-program-in-xampp-server)
+[Visual studio](https://code.visualstudio.com/?wt.mc_id=adw-brand&gclid=Cj0KCQjwxN_XBRCFARIsAIufy1ab0OZ-IstvQA9KCTEtZ_7ry4d-TQc6Px3ws5ocd4ygqZGllHena5kaAuPZEALw_wcB)
