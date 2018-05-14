@@ -22,8 +22,8 @@ After downloading the PHP files, run them in any platform which can hold php.<br
 So you can see the code of how system is running.
 ### Step 3
 After running XAMP, go to the web browser and press the link or type it manualy, which ever makes it easier for you.
-[Webpage](http://localhost/case/)
-[Database](http://localhost/phpmyadmin/)
+* [Webpage](http://localhost/case/)
+* [Database](http://localhost/phpmyadmin/)
 
 ### Converter
 To Convert markdown to html, Markdown-Edit Use [Github's API](http://developer.github.com/v3/markdown/#render-a-markdown-document-in-raw-mode) as default.<br>
