@@ -6,7 +6,7 @@ Try downloading [XAMP](https://www.apachefriends.org/download_success.html) page
 Or Install on your local PC. Check  [Guide](http://www.tutorialspoint.com/articles/run-a-php-program-in-xampp-server) page.<br> to how to install.
 
 
-## Steps to run the program 
+## Install Instructions
 ### Step 1
 After the download is finished, copy the files from github and paste in the htdoc file in XAMP folder.
 
